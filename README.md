@@ -61,7 +61,7 @@ JavaScript, CSS and Java source file analysis on Codacy: [![][codacy img]][codac
 Feedback/Support
 ========
 
-Please send any feedback to https://groups.google.com/forum/?hl=en#!forum/checkstyle
+Please send us any feedback to https://groups.google.com/forum/?hl=en#!forum/checkstyle
 
 Questions and Answers from community: [![][stackoverflow img]][stackoverflow]
 
