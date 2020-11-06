@@ -39,7 +39,7 @@ Build instructions and Contribution
 
 [Build instructions](https://checkstyle.org/contributing.html#Build)
 
-[Setup IDE for development](https://checkstyle.org/beginning_development.html)
+[Setup the IDE for development](https://checkstyle.org/beginning_development.html)
 
 [Explanation on how to create your own module](https://checkstyle.org/extending.html)
 
@@ -71,7 +71,7 @@ Bugs and Feature requests (not the questions): https://github.com/checkstyle/che
 Support/Sponsor checkstyle
 ========
 
-If you want to speed up fixing of issue and want to encourage somebody in
+If you want to speed up the fixing of an issue and want to encourage somebody in
 internet to resolve any issue:
 [![][bountysource img]][bountysource]
 [![][salt.bountysource img]][salt.bountysource]
